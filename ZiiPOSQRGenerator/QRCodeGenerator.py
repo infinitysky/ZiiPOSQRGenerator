@@ -112,7 +112,7 @@ class App:
                 fileName=str(x)
                 QRfileName=fileName+'.png'
                 
-                QRimg.save('./output/'+QRfileName)
+                QRimg.save('_QR_'+QRfileName)
                 
                 print('QR code generated!')
                 x=x+1
@@ -150,7 +150,7 @@ class App:
                 fileName=str(x)
                 QRfileName=fileName+'.png'
                 
-                QRimg.save('./output/'+QRfileName)
+                QRimg.save('_QR_'+QRfileName)
                 
                 print('QR code generated!')
                 x=x+1

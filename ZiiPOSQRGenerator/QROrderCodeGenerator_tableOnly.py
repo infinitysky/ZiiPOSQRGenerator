@@ -109,7 +109,7 @@ class App:
                 
                 # save the QR code generated
                 QRfileName='Table_'+fileName+'.png'
-                QRimg.save('./output/'+QRfileName)
+                QRimg.save(QRfileName)
                 
                 print('QR code generated!')
             
@@ -143,7 +143,7 @@ class App:
                 # set size of QR code              
                 # save the QR code generated
                 QRfileName='Table_'+fileName+'.png'
-                QRimg.save('./output/'+QRfileName)
+                QRimg.save(QRfileName)
                 
                 print('QR code generated!')
                 
