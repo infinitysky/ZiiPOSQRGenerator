@@ -172,7 +172,7 @@ namespace QRCodeV2
                 Directory.CreateDirectory(path);
             }    
             string filePathpng = OnlineOrderPathBox.Text + "\\OnlineOrder_" + OnlineOrderBranchBox.Text + ".png";
-            string QRString = OnlineQRURLFormat + OnlineOrderPathBox.Text;
+            string QRString = OnlineQRURLFormat + OnlineOrderBranchBox.Text;
             QRCodeGenerator qrGenerator = new QRCodeGenerator();
             QRCodeData qrCodeData = qrGenerator.CreateQrCode(QRString, QRCodeGenerator.ECCLevel.M);
             PngByteQRCode qrCode = new PngByteQRCode(qrCodeData);
