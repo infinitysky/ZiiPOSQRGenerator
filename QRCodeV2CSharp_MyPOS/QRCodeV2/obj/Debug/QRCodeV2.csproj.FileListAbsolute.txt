@@ -1,0 +1,12 @@
+D:\Nan_Dev\ZiiPOSQRGenerator\QRCodeV2CSharp_MyPOS\QRCodeV2\bin\Debug\QRCodeV2.exe.config
+D:\Nan_Dev\ZiiPOSQRGenerator\QRCodeV2CSharp_MyPOS\QRCodeV2\bin\Debug\QRCodeV2.exe
+D:\Nan_Dev\ZiiPOSQRGenerator\QRCodeV2CSharp_MyPOS\QRCodeV2\bin\Debug\QRCodeV2.pdb
+D:\Nan_Dev\ZiiPOSQRGenerator\QRCodeV2CSharp_MyPOS\QRCodeV2\bin\Debug\QRCoder.dll
+D:\Nan_Dev\ZiiPOSQRGenerator\QRCodeV2CSharp_MyPOS\QRCodeV2\obj\Debug\QRCodeV2.csprojAssemblyReference.cache
+D:\Nan_Dev\ZiiPOSQRGenerator\QRCodeV2CSharp_MyPOS\QRCodeV2\obj\Debug\QRCodeV2.Form1.resources
+D:\Nan_Dev\ZiiPOSQRGenerator\QRCodeV2CSharp_MyPOS\QRCodeV2\obj\Debug\QRCodeV2.Properties.Resources.resources
+D:\Nan_Dev\ZiiPOSQRGenerator\QRCodeV2CSharp_MyPOS\QRCodeV2\obj\Debug\QRCodeV2.csproj.GenerateResource.cache
+D:\Nan_Dev\ZiiPOSQRGenerator\QRCodeV2CSharp_MyPOS\QRCodeV2\obj\Debug\QRCodeV2.csproj.CoreCompileInputs.cache
+D:\Nan_Dev\ZiiPOSQRGenerator\QRCodeV2CSharp_MyPOS\QRCodeV2\obj\Debug\QRCodeV2.csproj.CopyComplete
+D:\Nan_Dev\ZiiPOSQRGenerator\QRCodeV2CSharp_MyPOS\QRCodeV2\obj\Debug\QRCodeV2.exe
+D:\Nan_Dev\ZiiPOSQRGenerator\QRCodeV2CSharp_MyPOS\QRCodeV2\obj\Debug\QRCodeV2.pdb
